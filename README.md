@@ -4,6 +4,7 @@ Members: Adler Viton, Jeremy Tan, Xiyue Zhang
 ## Requirements 
 1. All models were trained on the lightning.ai platform as storing the data needed 1TB of storage to process all the videos. We worked on a teamspace, a feature of lighting.ai, and imported the code here for submission.
 2. See requirements.txt fle for other installs. We include all dependencies to ensure replication of environment if you choose not use the lightning.ai platform.
+3. Request access to data from the creators of FakeAVCeleb: https://sites.google.com/view/fakeavcelebdash-lab/
 
 ## Notebooks 
 The `code` folder has various notebook files we used for experiments. 
